@@ -40,3 +40,4 @@
 # debug information files
 *.dwo
 .idea
+src/Env/include/Env/env_config.h

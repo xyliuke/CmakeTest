@@ -10,6 +10,7 @@
 class One {
 public:
     explicit One();
+    static int getInt();
 };
 
 

@@ -9,3 +9,7 @@ One::One() {
     std::cout << "hello world one\n";
 }
 
+int One::getInt() {
+    return 5;
+}
+
